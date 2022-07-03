@@ -44,7 +44,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['94726642927'] //ur owner number
 global.ownername = "DGXeon♥️"
 global.ytname = "YT: Dinitha Tharushan" //ur yt chanel name
-global.socialm = "GitHub: _dini_tharu_" //ur github or insta name
+global.socialm = "insta: _dini_tharu_" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
@@ -57,7 +57,7 @@ global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['94726642927'] //ur owner tag
 global.ownernummenu = ['94726642927'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
+global.watermark = "Dinitha_Tharushan." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
