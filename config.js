@@ -25,10 +25,10 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true//auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
+global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -41,22 +41,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94726642927'] //ur owner number
-global.ownername = "DGXeon♥️"
+global.owner = ['94707425929'] //ur owner number
+global.ownername = "Dinitha_Tharushan♥️"
 global.ytname = "YT: Dinitha Tharushan" //ur yt chanel name
 global.socialm = "insta: _dini_tharu_" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Sri lanka,Kandy" //ur location
 
 //bot bombdy
-global.botname = "DGXeon🦄♥️" //ur bot name
+global.botname = "BayMax🦄♥️" //ur bot name
 global.websitex = "https://www.youtube.com/channel/UCc-lLZK3v5YcIAHg1QmMiXw" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.vidmenu = { url: 'https://www.icegif.com/anime-43/' } //gif and video menu
+global.packname = "BayMax Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "🦄Dream Guy Baymax"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['94726642927'] //ur owner tag
-global.ownernummenu = ['94726642927'] //ur owner number in menu and all
+global.ownertag = ['94707425929'] //ur owner tag
+global.ownernummenu = ['94717013791'] //ur owner number in menu and all
 global.watermark = "Dinitha_Tharushan." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
